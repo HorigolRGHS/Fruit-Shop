@@ -1,0 +1,6 @@
+5
+1/Coconut/0/2.0/Vietnam
+2/Orange/1000/3.0/US
+3/Apple/1000/4.0/Thailand
+4/Grape/1000/6.0/France
+5/Mango/1000/2.0/Vietnam
